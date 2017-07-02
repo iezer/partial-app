@@ -22,10 +22,7 @@ You will need the following things properly installed on your computer.
 
 ## Linking
 
-This app will only build by building the following branches locally and npm linking:
-  * ember.js: https://github.com/iezer/ember.js/tree/isaac/referrer-to-resolver
-  * @glimmer/resolver: https://github.com/201-created/glimmer-resolver/tree/isaac/local-lookup
-  * ember-resolver: https://github.com/201-created/dangerously-set-unified-resolver/tree/isaac/pass-referrer
+This app will only build by building using ember-canary.
 
 ## Running / Development
 
