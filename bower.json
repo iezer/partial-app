@@ -1,0 +1,6 @@
+{
+  "name": "partial-app",
+  "dependencies": {
+    "ember": "components/ember#canary"
+  }
+}
